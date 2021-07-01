@@ -1,2 +1,2 @@
 # JBNCK 
-Hi there👋! I am a noob Software dev doing mostly CLI stuff. Make sure check them out!
+Hi there! I'm a 14 year old guy learning from the trial and error method.
